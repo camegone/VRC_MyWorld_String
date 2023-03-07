@@ -4,6 +4,11 @@
 	"Note_Url": "https://camegone.github.io/VRC_MyWorld_String/Drop_into_the_Dusk/Note.json",
 	"Release": [
 		{
+			"Tag": "1.1.73",
+			"Date": "2023/03/07",
+			"Note": "Add Release Note Viewer."
+		},
+		{
 			"Tag": "1.0.70",
 			"Date": "2023/03/06",
 			"Note": "Fixed playlist and lighting."
