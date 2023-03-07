@@ -1,0 +1,18 @@
+{
+	"Name": "Drop into the Dusk",
+	"Author": "camegone",
+	"Release": [
+	{
+		"Tag": "1.0.70",
+		"Date": "2023/03/06",
+		"Note": "Fixed playlist and lighting."
+	},
+	{
+		"Tag": "0.0.0",
+		"Date": "2023/03/04",
+		"Note": "Published to the community lab."
+	}
+	],
+	"Assets": [
+	]
+}
