@@ -1,18 +1,103 @@
 {
 	"Name": "Drop into the Dusk",
 	"Author": "camegone",
+	"Note_Url": "https://camegone.github.io/VRC_MyWorld_String/Drop_into_the_Dusk/Note.json",
 	"Release": [
-	{
-		"Tag": "1.0.70",
-		"Date": "2023/03/06",
-		"Note": "Fixed playlist and lighting."
-	},
-	{
-		"Tag": "0.0.0",
-		"Date": "2023/03/04",
-		"Note": "Published to the community lab."
-	}
+		{
+			"Tag": "1.0.70",
+			"Date": "2023/03/06",
+			"Note": "Fixed playlist and lighting."
+		},
+		{
+			"Tag": "0.0.0",
+			"Date": "2023/03/04",
+			"Note": "Published to the community lab."
+		}
 	],
 	"Assets": [
+		{
+			"Name": "House Harmony by Coquelicotz",
+			"Url": "https://coquelicotz.booth.pm/items/4558021",
+			"Type": "World Template",
+			"Author": "コクリコ"
+		},
+		{
+			"Name": "Filamented Standard for Unity",
+			"Url": "https://s-ilent.booth.pm/items/3250389",
+			"Type": "Shader",
+			"Author": "Silent"
+		},
+		{
+			"Name": "Clear Water 2",
+			"Url": "https://s-ilent.booth.pm/items/2577099",
+			"Type": "Shader",
+			"Author": "Silent"
+		},
+		{
+			"Name": "TowelCloud",
+			"Url": "https://gitlab.com/towelfunnelvrc/towelcloud/-/wikis/TowelCloud",
+			"Type": "Shader",
+			"Author": " 飛駒タオル"
+		},
+		{
+			"Name": "【VRChat】デジタル時計 Lunar Clock【Udon Sharp】",
+			"Url": "https://weloveyou-runa.booth.pm/items/4531924",
+			"Type": "Udon Gimmik",
+			"Author": "runa"
+		},
+		{
+			"Name": "【無料】Lunar World Notification【VRChat Udon】",
+			"Url": "https://booth.pm/ja/items/4485880",
+			"Type": "Udon Gimmik",
+			"Author": "runa"
+		},
+		{
+			"Name": "【VRC向け】iwaSync3 メディアプレイヤー",
+			"Url": "https://booth.pm/ja/items/2666275",
+			"Type": "World Gimmik",
+			"Author": "ikuko"
+		},
+		{
+			"Name": "QVPen",
+			"Url": "https://booth.pm/ja/items/1555789",
+			"Type": "World Gimmik",
+			"Author": "ureishi"
+		},
+		{
+			"Name": "YTTL 動画タイトル表示[VRChat, VCC, Udon] Video title viewer",
+			"Url": "https://65536.booth.pm/items/4588619",
+			"Type": "Udon Gimmik",
+			"Author": "ureishi"
+		},
+		{
+			"Name": "VRChatThumbnailer 2020 (サムネイル設定補助ツール)",
+			"Url": "https://booth.pm/ja/items/2327103",
+			"Type": "Tool",
+			"Author": "ureishi"
+		},
+		{
+			"Name": "【公式】VRChatイベントカレンダー【Quest対応版あり】",
+			"Url": "https://booth.pm/ja/items/4004966",
+			"Type": "World Gimmik",
+			"Author": "カッコウ"
+		},
+		{
+			"Name": "VRChat向け自動更新ポスターまとめ (PC/Quest/SDK2/SDK3/VCC/非VCC対応)",
+			"Url": "https://pokemori.booth.pm/items/2401621",
+			"Type": "World Gimmik",
+			"Author": "100の人"
+		},
+		{
+			"Name": "Lura's Switch【SDK2／SDK3／VCC】",
+			"Url": "https://booth.pm/ja/items/1969082",
+			"Type": "World Gimmik",
+			"Author": "るら／VRC"
+		},
+		{
+			"Name": "GlassyVRCPlayersOnlyMirror",
+			"Url": "https://github.com/camegone/GlassyVRCPlayersOnlyMirror",
+			"Type": "World Gimmik",
+			"Author": "camegone"
+		}
 	]
 }
