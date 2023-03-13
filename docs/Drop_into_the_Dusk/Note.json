@@ -2,7 +2,12 @@
 	"Name": "Drop into the Dusk",
 	"Author": "camegone",
 	"Note_Url": "https://camegone.github.io/VRC_MyWorld_String/Drop_into_the_Dusk/Note.json",
-	"Release": [
+	"Releases": [
+		{
+			"Tag": "1.2.89",
+			"Date": "2023/03/13",
+			"Note": "Fixed Release Note Viewer Scroll."
+		},
 		{
 			"Tag": "1.2.85",
 			"Date": "2023/03/11",
