@@ -113,6 +113,12 @@
 			"Url": "https://github.com/camegone/GlassyVRCPlayersOnlyMirror",
 			"Type": "World Gimmik",
 			"Author": "camegone"
+		},
+		{
+			"Name": "StringDLScroll",
+			"Url": "https://github.com/camegone/VRC_Assets",
+			"Type": "Udon Gimmik",
+			"Author": "camegone"
 		}
 	]
 }
