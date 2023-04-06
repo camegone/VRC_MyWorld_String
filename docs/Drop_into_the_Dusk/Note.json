@@ -4,7 +4,12 @@
 	"Note_Url": "https://camegone.github.io/VRC_MyWorld_String/Drop_into_the_Dusk/Note.json",
 	"Releases": [
 		{
-			"tag": "1.4.112",
+			"Tag": "1.5.129",
+			"Date": "2023/04/06";
+			"Note": "You can copy your video history - .... .   .-.. .. ... - ..."
+		},
+		{
+			"Tag": "1.4.112",
 			"Date": "2023/03/27";
 			"Note": "Added Noght mode .- -... --- ...- ."
 		},	
@@ -149,6 +154,12 @@
 		},
 		{
 			"Name": "Darkener",
+			"Url": "https://github.com/camegone/VRC_Assets",
+			"Type": "Udon Gimmik",
+			"Author": "camegone"
+		},
+		{
+			"Name": "MoonGazerNotifier",
 			"Url": "https://github.com/camegone/VRC_Assets",
 			"Type": "Udon Gimmik",
 			"Author": "camegone"
