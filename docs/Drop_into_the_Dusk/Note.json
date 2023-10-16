@@ -4,6 +4,11 @@
 	"Note_Url": "https://camegone.github.io/VRC_MyWorld_String/Drop_into_the_Dusk/Note.json",
 	"Releases": [
 		{
+			"Tag": "1.7.145",
+			"Date": "2023/10/17",
+			"Note": "posters and SDK updated․"
+		},
+		{
 			"Tag": "1.6.143",
 			"Date": "2023/08/28",
 			"Note": "Video player updated․"
@@ -174,10 +179,16 @@
 			"Author": "camegone"
 		},
 		{
-			"Name": "Quest/Quest2対応定期イベントポスター（2023年6月版）",
+			"Name": "Quest/Quest2対応定期イベントポスター（2023年9月版）",
 			"Url": "https://booth.pm/ja/items/1985422",
 			"Type": "Poster",
 			"Author": "Saguzi"
+		},
+		{
+			"Name": "VRChatイベントカレンダー",
+			"Url": "https://vrceve.github.io/vrceve-asset/",
+			"Type": "Udon Gimmik",
+			"Author": "satania"
 		}
 	]
 }
