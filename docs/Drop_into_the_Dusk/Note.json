@@ -4,6 +4,11 @@
 	"Note_Url": "https://camegone.github.io/VRC_MyWorld_String/Drop_into_the_Dusk/Note.json",
 	"Releases": [
 		{
+			"Tag": "1.8.167",
+			"Date": "2024/07/27",
+			"Note": "Unity 2022 and Video fix"
+		},
+		{
 			"Tag": "1.8.153",
 			"Date": "2024/03/08",
 			"Note": "Anniversary update! thx 20k visits!"
