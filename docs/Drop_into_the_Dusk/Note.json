@@ -4,6 +4,11 @@
 	"Note_Url": "https://camegone.github.io/VRC_MyWorld_String/Drop_into_the_Dusk/Note.json",
 	"Releases": [
 		{
+			"Tag": "1.9.182",
+			"Date": "2025/01/13",
+			"Note": "added wondernote （event poster） and video url copy button"
+		},
+		{
 			"Tag": "1.8.167",
 			"Date": "2024/07/27",
 			"Note": "Unity 2022 and Video fix"
@@ -135,18 +140,6 @@
 			"Author": "ureishi"
 		},
 		{
-			"Name": "【公式】VRChatイベントカレンダー【Quest対応版あり】",
-			"Url": "https://booth.pm/ja/items/4004966",
-			"Type": "World Gimmik",
-			"Author": "カッコウ"
-		},
-		{
-			"Name": "VRChat向け自動更新ポスターまとめ (PC/Quest/SDK2/SDK3/VCC/非VCC対応)",
-			"Url": "https://pokemori.booth.pm/items/2401621",
-			"Type": "World Gimmik",
-			"Author": "100の人"
-		},
-		{
 			"Name": "Lura's Switch【SDK2／SDK3／VCC】",
 			"Url": "https://booth.pm/ja/items/1969082",
 			"Type": "World Gimmik",
@@ -189,7 +182,7 @@
 			"Author": "camegone"
 		},
 		{
-			"Name": "Quest/Quest2対応定期イベントポスター（2023年9月版）",
+			"Name": "Quest/Quest2対応定期イベントポスター",
 			"Url": "https://booth.pm/ja/items/1985422",
 			"Type": "Poster",
 			"Author": "Saguzi"
@@ -199,6 +192,24 @@
 			"Url": "https://vrceve.github.io/vrceve-asset/",
 			"Type": "Udon Gimmik",
 			"Author": "satania"
+		},
+		{
+			"Name": "URL Copy Assistant - iwaSync3 の動画リンクを簡単コピー",
+			"Url": "https://booth.pm/ja/items/5159605",
+			"Type": "Udon Gimmik",
+			"Author": "Praecipua"
+		},
+		{
+			"Name": "EventTT for VRChat",
+			"Url": "https://booth.pm/ja/items/5822088",
+			"Type": "Udon Gimmik",
+			"Author": "Wonder Note"
+		},
+		{
+			"Name": "バーチャルキャストイベントポスターカレンダー",
+			"Url": "https://booth.pm/ja/items/1369294",
+			"Type": "Udon Gimmik",
+			"Author": "ぽけもり BOOTH支部"
 		}
 	]
 }
