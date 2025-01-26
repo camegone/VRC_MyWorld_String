@@ -4,6 +4,11 @@
 	"Note_Url": "https://camegone.github.io/VRC_MyWorld_String/Drop_into_the_Dusk/Note.json",
 	"Releases": [
 		{
+			"Tag": "1.10.195",
+			"Date": "2025/01/13",
+			"Note": " Persistence added․ retain your position on joinǃ"
+		},
+		{
 			"Tag": "1.9.182",
 			"Date": "2025/01/13",
 			"Note": "added wondernote （event poster） and video url copy button"
